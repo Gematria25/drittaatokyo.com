@@ -2,3 +2,7 @@ baseURL = 'https://drittaatokyo.com/'
 languageCode = 'it-IT'
 title = 'Dritta a Tokyo'
 theme = 'paige'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
