@@ -1,0 +1,4 @@
+baseURL = 'https://drittaatokyo.com/'
+languageCode = 'it-IT'
+title = 'Dritta a Tokyo'
+theme = 'paige'
