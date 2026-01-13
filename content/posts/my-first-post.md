@@ -1,6 +1,6 @@
 +++
 date = '2025-12-15T00:11:31+09:00'
-draft = true
+draft = false
 title = 'Su questo blog'
 +++
 
