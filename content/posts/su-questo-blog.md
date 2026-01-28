@@ -2,9 +2,8 @@
 date = '2025-12-15T00:11:31+09:00'
 draft = false
 title = 'Su questo blog'
-+++
 
-# Su questo sito
++++
 
 Se ti trovi qui per caso, ti starai probabilmente chiedendo: di cosa si tratta? Be', lascia che ti spieghi in cosa consiste questo blog!
 

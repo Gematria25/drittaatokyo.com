@@ -2,15 +2,9 @@
 date = '2026-01-27T19:55:51+09:00'
 draft = false
 title = 'Dritta a Tokyo'
-
-[params.paige.pages]
-disable_collections = true
-disable_sections = true
+featured_image = 'sensoji.jpg'
+featured_image_class = "cover bg-center"
 
 +++
 
-
-{{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" loading="eager" height="30rem" src="sensoji.jpg" width="100%" >}}
-
-
-
+ようこそ！ Ti do il benvenuto nel mio blog. Mi chiamo Alessia e vivo a Tokyo. Qui condivido la mia esperienza in Giappone. Scrivo guide pratiche e consigli sulla vita qui, ma anche di considerazioni, storie, articoli culturali e molto altro. Buona lettura!
