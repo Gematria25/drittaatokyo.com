@@ -5,9 +5,7 @@ title = 'Su questo blog'
 
 +++
 
-Se ti trovi qui per caso, ti starai probabilmente chiedendo: di cosa si tratta? Be', lascia che ti spieghi in cosa consiste questo blog!
-
-## Cos'è "Dritta a Tokyo"?
+Se ti trovi qui per caso, ti starai probabilmente chiedendo: cos'è "Dritta a Tokyo"?  
 
 "Dritta a Tokyo" è il mio blog personale, in cui condivido contenuti sul Giappone basati sulle mie esperienze in questo meraviglioso paese, che ho vissuto sia da studentessa universitaria un paio d'anni fa e che vivo come lavoratrice ora.  
 Trasferirsi in Giappone e ambientarsi possono sembrare cose piuttosto complicate per chi è alle prime armi, specialmente se ci si trasferisce direttamente con un visto lavorativo, e le fonti online in italiano per capire cosa fare scarseggiano. Con "Dritta a Tokyo", spero, con la mia esperienza, di poter semplificare la vita ad altri italiani che abbiano voglia di trasferirsi in Giappone.
