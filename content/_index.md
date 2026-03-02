@@ -1,7 +1,7 @@
 +++
 date = '2026-01-27T19:55:51+09:00'
 draft = false
-title = 'Dritta a Tokyo'
+title = 'Home'
 featured_image = 'sensoji.jpg'
 featured_image_class = "cover bg-center"
 
