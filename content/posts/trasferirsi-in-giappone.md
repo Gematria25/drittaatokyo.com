@@ -2,7 +2,6 @@
 date = '2026-03-02T21:50:22+09:00'
 draft = false
 title = 'Trasferirsi in Giappone'
-disqus_title = 'Commenti'
 
 +++
 

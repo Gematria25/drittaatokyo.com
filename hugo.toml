@@ -47,7 +47,3 @@ read_more_copy = "Continua a leggere"
 body_classes = "baskerville dark-red"
 post_content_classes = "athelas mid-gray"
 
-
-[services]
-  [services.disqus]
-    shortname = 'drittaatokyo'
